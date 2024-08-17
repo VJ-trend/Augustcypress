@@ -34,6 +34,8 @@ const obj = {
 }
 
 console.log(obj);
+console.log(obj.name); // update
+
 
 
 
